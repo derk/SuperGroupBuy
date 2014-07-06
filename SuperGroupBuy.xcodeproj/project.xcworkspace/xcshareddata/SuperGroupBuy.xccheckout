@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1781F5C0-8B3F-4CD9-9EA0-A0616B0C0907</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SuperGroupBuy</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E56A3E89-1153-4511-977E-30AC2E185A17</key>
+		<string>https://github.com/lijianfei1023/SuperGroupBuy-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SuperGroupBuy.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E56A3E89-1153-4511-977E-30AC2E185A17</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lijianfei1023/SuperGroupBuy-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E56A3E89-1153-4511-977E-30AC2E185A17</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E56A3E89-1153-4511-977E-30AC2E185A17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SuperGroupBuy </string>
+		</dict>
+	</array>
+</dict>
+</plist>

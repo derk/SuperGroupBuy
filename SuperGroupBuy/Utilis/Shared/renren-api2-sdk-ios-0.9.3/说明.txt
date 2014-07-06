@@ -1,0 +1,22 @@
+
+=====说明=====
+
+sdk提供了登录和接口请求功能。
+
+包括：
+RennAppService
+RennLikeService
+RennBlogService
+RennAlbumService
+RennCommentService
+RennFeedService
+RennNotificationService
+RennPhotoService
+RennProfileService
+RennShareService
+RennStatusService
+RennUbbService
+RennUserService
+
+开发者使用sdk时做如下导入即可：
+#import "RennSDK/RennSDK.h"
